@@ -1,5 +1,10 @@
 # Film-Browser C++ Application
 
+This application uses the Simple Game Graphics (SGG) library to provide a visually pleasing experience for movie fans. 
+It offers various type of buttons and widgets to ensure that the user can navigate easily and upgrade his experience.
+The application disposes many filters, allowing users to search for a movie subset based on their interests.
+It's also provided the option to search a spesific movie, by typing the title, the director or the actors.
+
 ![Film Browser Main Page](images/image1.png)
 
 ## Features
