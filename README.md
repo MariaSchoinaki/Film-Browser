@@ -9,6 +9,16 @@ It's also provided the option to search a spesific movie, by typing the title, t
 
 ## Features
 
+- Users can navigate through a various range of movies with the help of next-previous buttons.
+
+- A variety of different information is provided, such as the title, release year, genre, director, actors, a brief description and a couple of images for each movie.
+
+- Easily find movie subsets based on different criteria.
+  - Genre Filter: Users can discover movies based on their preferred genre.
+  - Max-Min Year Filter: Users can find movies released in a specific year or within a range of years.
+  - Text Search: Users can type titles, directors or actors to search for a specific movie or movies with a specific actor.
+
+
 ## How to Run
 
 1. **Download the Application:**
